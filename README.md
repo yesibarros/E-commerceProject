@@ -2,20 +2,16 @@
 
 
 
-Inicialización del proyecto
-Ejecutar instalación de paquetes de Node
-Ejecutar el comando npm install tanto en el directorio del back, (/back), como del Front (/front).
+Project initialization
 
-Base de Datos
-La base de datos que usamos es mongodb y está subida en una nube. Por lo tanto no hace falta hacer un seed
+Execute Node package installation: Execute the npm install command in both the back (/ back) and Front (/ front) directories.
 
-Incio del servidor (back)
-Ejecutar el comando npm start en el directorio del back, (/back) para levantar el servidor. El mismo estará disponible en el puerto 3001 (http://localhost:3001)
+Database: The database that is used is mongodb and it is uploaded to the cloud. Therefore it is not necessary to make a seed
 
-Inicio de la vista principal (front)
-Ejecutar el comando npm start en el directorio del front, (/front) para correr webpack.
+Server start (back): Execute the command 'npm start' in the back directory (/ back) to start the server. It will be available on port 3001 (http: // localhost: 3001)
 
-Datos Usuario Administrador
-email: super@administrador.com
+Start of the main view (front): Execute the command 'npm start' in the front directory (/ front) to run webpack.
+
+Administrator User Data email: super@administrador.com
 
 password: "123456"
